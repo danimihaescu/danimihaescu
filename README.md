@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danimihaescu
-- 👀 I’m interested in Python -  Cloud & Networking, Infrastructure
+- 👀 I’m interested in Python - Test Automation, Cloud & Networking, Infrastructure
 
 <!---
 danimihaescu/danimihaescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
